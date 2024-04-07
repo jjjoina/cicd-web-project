@@ -4,6 +4,7 @@
 
         <body>
             <h2>It's working on Tomcat server(9.0.65)</h2>
+            <h2>docker 없이 host PC에서 돌아가는 서버입니다.</h2>
             <hr>
             <h1>${msg}</h1>
             <h1>Oh my God. It works!!</h1>
